@@ -9,3 +9,6 @@ Method --> translate
 Search in google - github azure ai translator sdk samples
 Resources: 
 https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/translation/azure-ai-translation-text/README.md
+
+Sample 2 -
+Azure AI search
