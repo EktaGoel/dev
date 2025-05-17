@@ -12,3 +12,4 @@ https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/translation/azure-ai
 
 Sample 2 -
 Azure AI search
+https://github.com/Azure/azure-search-vector-samples/tree/main/demo-python/code/basic-vector-workflow
